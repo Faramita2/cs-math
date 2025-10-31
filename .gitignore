@@ -211,6 +211,3 @@ __marimo__/
 
 # Virtual environments created by various tools
 *_env/
-
-# Directory for storing results
-results/
