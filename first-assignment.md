@@ -66,7 +66,11 @@ Submission structure:
  │   └─ results/
 ```
 
+<<<<<<< HEAD
 ---
+=======
+***REMOVED***
+>>>>>>> 05bba67 (add introduction)
 
 # Chinese Version
 ## 概述
@@ -113,4 +117,8 @@ pip install -r requirements.txt
 python3 pagerank.py
 python3 bayesian.py
 ```
+<<<<<<< HEAD
 ---
+=======
+***REMOVED***
+>>>>>>> 05bba67 (add introduction)
